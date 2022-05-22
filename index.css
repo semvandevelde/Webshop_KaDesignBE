@@ -1,0 +1,45 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css');
+
+html {
+    font-size: 18px;
+    ;
+}
+
+.braceletitem {
+    width: 100%;
+    height: auto;
+}
+
+.productfoto {
+    width: 100%;
+    height: auto;
+    margin-top: 16px;
+}
+
+.braceletitem:hover {
+    border: 1px solid #000;
+}
+
+footer {
+    background-color: #fff;
+}
+
+
+
+. @media screen and (min-width: 576px) {
+    .bordertekst1 {
+        border-left: 2px solid black;
+    }
+
+    .bordertekst2 {
+        border-right: 2px solid black;
+    }
+}
+
+
+@media screen and (min-width: 992px) {
+    .h2tekst {
+        font-size: 20px;
+        ;
+    }
+}
