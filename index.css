@@ -16,6 +16,15 @@ html {
     margin-top: 16px;
 }
 
+.naaritem {
+    color: black;
+    text-decoration: none;
+}
+
+.naaritem:hover {
+    color: black;
+}
+
 .braceletitem:hover {
     border: 1px solid #000;
 }
